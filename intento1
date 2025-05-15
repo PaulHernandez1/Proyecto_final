@@ -1,2 +1,10 @@
 #Proyecto final de programacion funcional
 import tkinter as tk
+
+ventanaPrincipal = tk.Tk()
+ventanaPrincipal.title("Proyecto Final / Programacion Funcional")
+ventanaPrincipal.resizable(False , False)
+ventanaPrincipal.geometry()  # Como de que tamaño lo ponemos jaja
+
+
+
